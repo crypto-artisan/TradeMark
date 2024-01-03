@@ -159,3 +159,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
 Copyright &copy; 2023 Senior Coder. All rights reserved. 
+
+@powered by hightecular95908
